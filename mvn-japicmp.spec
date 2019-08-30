@@ -4,7 +4,7 @@
 #
 Name     : mvn-japicmp
 Version  : 0.10.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/siom79/japicmp/archive/japicmp-base-0.10.0.tar.gz
 Source0  : https://github.com/siom79/japicmp/archive/japicmp-base-0.10.0.tar.gz
 Source1  : https://repo.gradle.org/gradle/libs-releases/com/github/siom79/japicmp/japicmp-base/0.10.0/japicmp-base-0.10.0.pom
